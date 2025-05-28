@@ -13,7 +13,6 @@
 ### 💼 About Me
 
 - 🔭 I'm currently working on projects using **Next.js** and **Tailwind CSS**  
-- 🎮 I'm also learning about **game development using GameMaker Engine**
 - 📫 You can reach me at **alonesomething2@gmail.com**
 
 ---
@@ -39,12 +38,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/lzjfbfE.gif" alt="arcade-gif" />
-</p>
 
-
-[![Lofi Music](https://img.youtube.com/vi/jfKfPfyJRdk/0.jpg)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+[![Now Playing](https://img.youtube.com/vi/9Loy6QsyqQQ/0.jpg)](https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx)
 
 
 ### 🌐 Let's Connect
