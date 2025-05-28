@@ -40,16 +40,19 @@
 ---
 
 ### 🎵 Favorite Music
-
 <p align="center">
   <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">
-    <img src="https://img.youtube.com/vi/9Loy6QsyqQQ/0.jpg" alt="Now Playing" width="300" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yZGsyY2dxazM2YWp2cHY4aHQ3ajh4eGUwbmlyZHRkZHg2czBxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Spinning CD" />
   </a>
 </p>
 
-- [Track 1](https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx)  
-- [Track 2](https://music.youtube.com/watch?v=v7GMG1aLyPw&si=bhOHZnO9KFkhMqxL)  
-- [Track 3](https://music.youtube.com/watch?v=EZURcEqoJfs&si=rTLlUAyu_3B6Xs9d)
+<p align="center">
+  🎵 <strong>Now Playing:</strong> <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">Track 1</a>
+</p>
+
+- [🎶 Track 1 - Link](https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx)  
+- [🎶 Track 2 - Link](https://music.youtube.com/watch?v=v7GMG1aLyPw&si=bhOHZnO9KFkhMqxL)  
+- [🎶 Track 3 - Link](https://music.youtube.com/watch?v=EZURcEqoJfs&si=rTLlUAyu_3B6Xs9d)
 
 ---
 
