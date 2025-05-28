@@ -2,7 +2,7 @@
   <img src="alda.png" alt="Alda Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ramdani</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramdanijr12&label=Profile%20views&color=0e75b6&style=flat" alt="ramdanijr12" />
@@ -39,6 +39,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/lzjfbfE.gif" alt="arcade-gif" />
+</p>
+
+
+[![Lofi Music](https://img.youtube.com/vi/jfKfPfyJRdk/0.jpg)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
 
 ### 🌐 Let's Connect
 
