@@ -64,7 +64,7 @@
 ### 🎵 Musik Favorit
 <p align="center">
   <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yZGsyY2dxazM2YWp2cHY4aHQ3ajh4eGUwbmlyZHRkZHg2czBxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Spinning CD" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cd.svg" width="120" alt="CD Icon" style="animation:spin 2s linear infinite;" />
   </a>
 </p>
 
