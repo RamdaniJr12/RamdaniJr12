@@ -84,4 +84,6 @@
   <a href="mailto:alonesomething2@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
+  <br/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXoyYXJmN3luYTRxZXRidGZsaGJrdDQycmUwdXdrcW4wbXRwd2xrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10dvjmLNHQ6O3e/giphy.gif" alt="Contact GIF" height="60" />
 </p>
