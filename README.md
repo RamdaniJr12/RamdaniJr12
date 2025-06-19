@@ -8,38 +8,60 @@
 
 ---
 
-### 💼 About Me
+### 💼 Tentang Saya
 
-- 🚀 Currently working on various web projects using **Next.js** and **Tailwind CSS**
-- 🎮 I'm also passionate about playing **Mobile Legends** and **Honor of Kings**
-- 📫 Reach me via email at: **alonesomething2@gmail.com**
+- 🚀 Saat ini sedang mengerjakan berbagai proyek web menggunakan **Next.js** dan **Tailwind CSS**
+- 🎮 Juga suka bermain **Mobile Legends** dan **Honor of Kings**
+- 📫 Hubungi saya melalui email: **alonesomething2@gmail.com**
 
 ---
 
-### 🛠️ Skills & Tools
+### 🎓 Pendidikan
+
+- **SMA Negeri 1 Darangdan**  
+  Jurusan Ilmu Sosial
+- **LP3I College Purwakarta**  
+  Jurusan Application Software Engineering
+
+---
+
+### 💼 Pengalaman Kerja
+
+- **LP3I College Purwakarta**  
+  Staff IT (2022 - 2023)
+- **PT Eradi Digital**  
+  Teknisi Jaringan (2023 - sekarang)
+- **PT Velasto Indonesia**  
+  Junior Developer (2024)
+- **PT GAS**  
+  Staff IT (2025)
+
+---
+
+### 🛠️ Keahlian & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind,bootstrap,php,laravel,figma,linux,raspberrypi,windows,github,git,vscode" />
 </p>
 
-- 🎨 **UI/UX & Design**: Figma, Corel Draw  
+- 🎨 **UI/UX & Desain**: Figma, Corel Draw  
 - 🌐 **Frontend**: HTML, CSS, JavaScript, Next.js, Tailwind CSS, Bootstrap  
 - 🧠 **Backend**: PHP, Laravel  
-- 🖧 **Networking**: Basic Networking, Mikrotik  
-- 💻 **Operating Systems**: Linux, Raspberry Pi, Windows  
+- 🖧 **Jaringan**: Dasar Jaringan, Mikrotik  
+- 💻 **Sistem Operasi**: Linux, Raspberry Pi, Windows  
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramdanijr12&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamdaniJr12&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamdaniJr12&theme=radical" width="400" />
 </p>
 
 ---
 
-### 🎵 Favorite Music
+### 🎵 Musik Favorit
 <p align="center">
   <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yZGsyY2dxazM2YWp2cHY4aHQ3ajh4eGUwbmlyZHRkZHg2czBxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Spinning CD" />
@@ -47,7 +69,7 @@
 </p>
 
 <p align="center">
-  🎵 <strong>Now Playing:</strong> <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">Track 1</a>
+  🎵 <strong>Sedang Diputar:</strong> <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">Track 1</a>
 </p>
 
 - [🎶 Track 1 - Link](https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx)  
@@ -56,7 +78,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Hubungi Saya
 
 <p align="center">
   <a href="mailto:alonesomething2@gmail.com">
