@@ -36,7 +36,7 @@
 ### 🛠️ Keahlian & Tools
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=html,css,godot,figma,appsheet,linux,windows,github,git,vscode" />
+   <img src="https://skillicons.dev/icons?i=html,css,godot,figma,linux,windows,github,git,vscode" />
 </p>
 
 - 🎮 **Game Dev**: Godot Engine (GDScript)
