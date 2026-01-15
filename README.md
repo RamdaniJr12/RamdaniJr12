@@ -46,14 +46,6 @@
 `
 ---
 
-### 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamdaniJr12&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamdaniJr12&theme=radical" width="400" />
-</p>
-
----
 
 ### 🎵 Musik Favorit
 <p align="center">
