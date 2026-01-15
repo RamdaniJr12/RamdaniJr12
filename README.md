@@ -48,27 +48,35 @@
 ### 📈 Statistik GitHub
 
 <p align="center">
-  <img src="github-readme-stats.vercel.app" width="48%" />
-  <img src="github-readme-streak-stats.herokuapp.com" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamdaniJr12&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamdaniJr12&theme=radical" width="400" />
 </p>
 
 ---
 
 ### 🎵 Musik Favorit
 <p align="center">
-  <a href="music.youtube.com&si=bVKwWHqa41wAdEAx" target="_blank">
+  <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVubzlrNjBqdXVpcTM0N3N2d3V1enNrenlmMndwdGo3eGF3dHl1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rO0wyjOHUQAp6WoC51/giphy.gif" width="120" alt="Listen" />
   </a>
-  <br>
-  🎵 <b>Sedang Menemani Koding:</b>
-  <br>
-  [Track 1](music.youtube.com) • [Track 2](music.youtube.com) • [Track 3](music.youtube.com)
 </p>
+
+<p align="center">
+  🎵 <strong>Sedang Diputar:</strong> <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">Track 1</a>
+</p>
+
+- [🎶 Track 1 - Link](https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx)  
+- [🎶 Track 2 - Link](https://music.youtube.com/watch?v=v7GMG1aLyPw&si=bhOHZnO9KFkhMqxL)  
+- [🎶 Track 3 - Link](https://music.youtube.com/watch?v=EZURcEqoJfs&si=rTLlUAyu_3B6Xs9d)
 
 ---
 
+### 🌐 Hubungi Saya
+
 <p align="center">
-  <a href="mailto:aldaramdanijr@gmail.com">
-    <img src="img.shields.io" alt="Gmail" />
+  <a href="mailto:alonesomething2@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
+  <br/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXoyYXJmN3luYTRxZXRidGZsaGJrdDQycmUwdXdrcW4wbXRwd2xrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10dvjmLNHQ6O3e/giphy.gif" alt="Contact GIF" height="60" />
 </p>
