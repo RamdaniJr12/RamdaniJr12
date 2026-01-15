@@ -12,7 +12,7 @@
 ### 👋 Tentang Saya
 
 - 🚀 **Fokus Saat Ini**: Sedang mendalami pengembangan game menggunakan **Godot Engine** dan aktif mempelajari logika koding melalui **GDScript**.
-- 🎨 **Minat**: Desain grafis, UI/UX, dan pengembangan tampilan web (Front-end).
+- 🎨 **Minat**: Desain grafis, UI/UX, dan pengembangan game sederhana.
 - 📫 **Hubungi Saya**: [aldaramdanijr@gmail.com](mailto:aldaramdanijr@gmail.com)
 
 ---
@@ -27,7 +27,7 @@
 ### 💼 Pengalaman Kerja
 
 - **PT GAS** | Staff IT (2025)
-- **PT Velasto Indonesia** | Junior Developer (2024)
+- **PT Velasto Indonesia** | Junior Developer Appsheet (2024)
 - **PT Eradi Digital** | IT Support (2023 - 2024)
 - **LP3I College Purwakarta** | Staff IT (2022 - 2023)
 
@@ -36,7 +36,7 @@
 ### 🛠️ Keahlian & Tools
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=html,css,godot,figma,linux,windows,github,git,vscode" />
+   <img src="https://skillicons.dev/icons?i=html,css,godot,figma,appsheet,linux,windows,github,git,vscode" />
 </p>
 
 - 🎮 **Game Dev**: Godot Engine (GDScript)
