@@ -26,10 +26,10 @@
 
 ### 💼 Pengalaman Kerja
 
-- **PT GAS** | Staff IT (2025)
-- **PT Velasto Indonesia** | Junior Developer Appsheet (2024)
-- **PT Eradi Digital** | IT Support (2023 - 2024)
-- **LP3I College Purwakarta** | Staff IT (2022 - 2023)
+- **PT GAS** | Intership IT & QC (2025)
+- **PT Velasto Indonesia** | Intership Junior Developer Appsheet (2024)
+- **PT Eradi Digital** | Freelance Teknisi Jaringan (2023 - 2025)
+- **LP3I College Purwakarta** | Intership Staff IT (2022 - 2023)
 
 ---
 
