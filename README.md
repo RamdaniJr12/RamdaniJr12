@@ -20,7 +20,7 @@
 ### 🎓 Pendidikan
 
 - **LP3I College Purwakarta** | Jurusan Application Software Engineering
-- **SMA Negeri 1 Darangdan** | Jurusan Ilmu Sosial
+
 
 ---
 
