@@ -59,10 +59,8 @@
 - [🎶 Track 1 - Link](https://music.youtube.com/watch?v=q_kAutTK3RM&list=RDAMVMq_kAutTK3RM)  
 - [🎶 Track 2 - Link](https://music.youtube.com/watch?v=v7GMG1aLyPw&si=bhOHZnO9KFkhMqxL)  
 - [🎶 Track 3 - Link](https://music.youtube.com/watch?v=EZURcEqoJfs&si=rTLlUAyu_3B6Xs9d)
-
----
-  🎵 <strong>Sedang Diputar:</strong> <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank">Track 1</a>
 </p>
+---
 
 ### 🌐 Hubungi Saya
 
