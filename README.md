@@ -14,14 +14,13 @@
 </p>
 
 ---
-
 ### 👨‍💻 Tentang Saya
 
-Seorang IT Staff dan Junior Developer yang suka menjembatani kreativitas visual dengan logika sistem. Saya terbiasa membangun solusi dari aplikasi *low-code* hingga mengeksplorasi *game engine*. 
+Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan digital, mulai dari desain grafis, instalasi jaringan, hingga pembuatan sistem *low-code*. Saya adalah tipe orang yang suka mengeksplorasi banyak *tools* dan mencari cara paling praktis untuk menyelesaikan suatu *project*.
 
-- 🚀 **Fokus Saat Ini**: Mendalami **Godot Engine (GDScript)** untuk pengembangan game, dan mengelola automasi menggunakan **AppSheet**.
-- 💡 **Eksplorasi Teknologi**: Aktif bereksperimen mengintegrasikan AI (seperti Groq API) ke dalam alur kerja sistem untuk menciptakan ekosistem aplikasi yang lebih cerdas.
-- 🎮 **Hobi & Minat**: Bermain game *Open-World* (seperti Genshin Impact), mengeksplorasi desain UI/UX, dan mengotak-atik *setup productivity* (mulai dari *flexible keyboard* hingga *fast-charging gear* untuk mendukung mobilitas kerja).
+- 🚀 **Fokus Saat Ini**: Sedang asyik belajar bikin game pakai **Godot Engine (GDScript)** dan ngurusin sistem automasi pakai **AppSheet**.
+- 💡 **Eksplorasi**: Suka nyobain berbagai macam *software* dan teknologi baru untuk mencari *workflow* atau jalan pintas termudah dalam ngebangun sebuah aplikasi.
+- 🎮 **Hobi & Minat**: Main game *Open-World* (terutama *Where Winds Meet* / WWM), serta ngulik desain visual dan UI/UX.
 
 ---
 
@@ -73,7 +72,7 @@ Seorang IT Staff dan Junior Developer yang suka menjembatani kreativitas visual 
     </tbody>
   </table>
 </div>
----
+
 
 ### 📊 Aktivitas & Statistik Koding
 
