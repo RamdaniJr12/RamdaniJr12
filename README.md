@@ -77,7 +77,7 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
 ### 📊 Aktivitas & Statistik Koding
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh6bDEwYXUwNTd5Y2h3dHpnczE4YWxycGFyNXduMXJiY3M1NnNhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFdxXxiZ6PsOOrRFbt/giphy.gif" width="48%" alt="GitHub Streak" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh6bDEwYXUwNTd5Y2h3dHpnczE4YWxycGFyNXduMXJiY3M1NnNhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFdxXxiZ6PsOOrRFbt/giphy.gif" width="48"  />
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
 </p>
