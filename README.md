@@ -82,8 +82,6 @@ Seorang IT Staff dan Junior Developer yang suka menjembatani kreativitas visual 
 ### 📊 Aktivitas & Statistik Koding
 
 <p align="center">
-  <!-- Top Languages Card (Lebih stabil dari Trophy dan menunjukkan spesialisasi kamu) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdanijr12&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
   
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
