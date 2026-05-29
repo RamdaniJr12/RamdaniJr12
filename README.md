@@ -91,7 +91,7 @@ Fokus koding sambil dengerin musik adalah jalan ninja saya saat mencari *bug* at
 
 <p align="center">
  <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank"> 
-     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg3ZG15azZwYzRkaWdkb2RtYjE3dnBlOWVzODdlcjQ1NmJld2Y5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cPa0VPT5ZR8d6s9UGU/giphy.gif" width="120" alt="Listen" />
+     <img src="jkmusic.gif" width="120" alt="Listen" />
   </a>
 </p>
 
