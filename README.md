@@ -73,15 +73,14 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
   </table>
 </div>
 
-
 ### ☕ My Daily Activities
 
 <p align="center">
   <!-- Animasi kucing main laptop -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="130" alt="Cat Laptop" style="border-radius: 10px; margin-right: 10px;" />
   
-  <!-- Animasi Catatan / Notes -->
-  <img src="https://media.giphy.com/media/iXeKXVyZHZm4SqerEa/giphy.gif" height="130" alt="Notes" style="border-radius: 10px; margin-right: 10px;" />
+  <!-- Animasi Kucing Nyatet -->
+  <img src="https://media.giphy.com/media/iXeKXVyZHZm4SqerEa/giphy.gif" height="130" alt="Cat Notes" style="border-radius: 10px; margin-right: 10px;" />
   
   <!-- Gameplay Where Winds Meet -->
   <img src="https://media.giphy.com/media/YFdxXxiZ6PsOOrRFbt/giphy.gif" height="130" alt="Where Winds Meet Gameplay" style="border-radius: 10px;" />
