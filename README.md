@@ -2,10 +2,6 @@
   <img src="alda.png" alt="Alda Banner" width="100%" />
 </div>
 
-<h1 align="center">
-  Hi there, I'm Alda Ramdani! <img src="https://media.giphy.com/media/mG5D36VXXO9a51nF5B/giphy.gif" width="35">
-</h1>
-
 <p align="center">
   <a href="https://github.com/ramdanijr12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=IT+Staff+%26+Junior+Developer;Game+Developer+in+Godot;AppSheet+%26+Low-Code+Specialist;Network+Technician" alt="Typing SVG" />
