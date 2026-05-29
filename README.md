@@ -24,7 +24,7 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
 
 ---
 
-### 🛠️ Keahlian & Tech Stack
+### 🛠️ Keahlian 
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
 - **Sistem & Infrastruktur**: Windows, Linux Mint, Network Maintenance, Hardware Troubelshooting.
 
 ---
-### 💼 Pengalaman Profesional
+### 💼 Pengalaman Kerja
 
 <div align="center">
   <table align="center">
