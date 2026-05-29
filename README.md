@@ -42,28 +42,51 @@ Seorang IT Staff dan Junior Developer yang suka menjembatani kreativitas visual 
 - **Sistem & Infrastruktur**: Windows, Linux Mint, Network Maintenance, Hardware Troubelshooting.
 
 ---
-
 ### 💼 Pengalaman Profesional
 
-| Perusahaan | Peran | Periode |
-| :--- | :--- | :--- |
-| **PT Global Anugerah Setia** | Staff IT & QC (Project Internship) | Apr 2025 - Des 2026 |
-| **PT Velasto Indonesia** | Junior Developer Appsheet | Mar 2024 - Sep 2024 |
-| **PT Eradi Digital Teknologi** | Freelance Teknisi Jaringan | Nov 2023 - Apr 2025 |
-| **LP3I College Purwakarta** | Internship Staff IT | Sep 2022 - Agu 2023 |
-
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th align="center">Perusahaan</th>
+        <th align="center">Peran</th>
+        <th align="center">Periode</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left"><b>PT Global Anugerah Setia</b></td>
+        <td align="left">Staff IT & QC (Project Internship)</td>
+        <td align="center">Apr 2025 - Des 2026</td>
+      </tr>
+      <tr>
+        <td align="left"><b>PT Velasto Indonesia</b></td>
+        <td align="left">Junior Developer Appsheet</td>
+        <td align="center">Mar 2024 - Sep 2024</td>
+      </tr>
+      <tr>
+        <td align="left"><b>PT Eradi Digital Teknologi</b></td>
+        <td align="left">Freelance Teknisi Jaringan</td>
+        <td align="center">Nov 2023 - Apr 2025</td>
+      </tr>
+      <tr>
+        <td align="left"><b>LP3I College Purwakarta</b></td>
+        <td align="left">Internship Staff IT</td>
+        <td align="center">Sep 2022 - Agu 2023</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 ---
 
-### 📊 Aktivitas GitHub
+### 📊 Aktivitas & Statistik Koding
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ramdanijr12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Top Languages Card (Lebih stabil dari Trophy dan menunjukkan spesialisasi kamu) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdanijr12&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=tokyonight&hide_border=true&v=1" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -73,7 +96,8 @@ Seorang IT Staff dan Junior Developer yang suka menjembatani kreativitas visual 
 Fokus koding sambil dengerin musik adalah jalan ninja saya saat mencari *bug* atau merancang sistem:
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="450" style="border-radius: 10px;" alt="Lofi Coding Vibe" />
+  <!-- Animasi Piringan CD Berputar dari server yang lebih stabil -->
+  <img src="https://media.tenor.com/2X3y-h0k6YMAAAAj/spinning-cd.gif" width="120" alt="Spinning CD Vibe" />
 </div>
 <br>
 
