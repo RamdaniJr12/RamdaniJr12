@@ -84,15 +84,15 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
 
 ---
 
-### 🎧 Vibe Coding
+### 🎵 Musik Favorit
 
 Fokus koding sambil dengerin musik adalah jalan ninja saya saat mencari *bug* atau merancang sistem:
 
-<div align="center">
-  <!-- Animasi Piringan CD Berputar dari server yang lebih stabil -->
-  <img src="https://media.tenor.com/2X3y-h0k6YMAAAAj/spinning-cd.gif" width="120" alt="Spinning CD Vibe" />
-</div>
-<br>
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank"> 
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3czN21rYmp1cjNsMTUzbmJ0eXk1b2wxNGlqaWk0MHBhNnk0Yzh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JRCsHUHcD6v1NPfuYM/giphy.gif" width="120" alt="Listen" />
+  </a>
+</p>
 
 <table align="center" border="0"> 
   <tr> 
