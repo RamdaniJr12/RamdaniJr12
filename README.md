@@ -81,11 +81,11 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="130" alt="Cat Laptop" style="border-radius: 10px; margin-right: 10px;" />
   
   <!-- Animasi Catatan / Notes -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNwdzQ0c25heTFibWxueWp3NDB3ZGN4dTIzMHdmM2p4MXAwYXFidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iXeKXVyZHZm4SqerEa/giphy.gif" height="130" alt="Notes" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="https://media1.giphy.com/media/iXeKXVyZHZm4SqerEa/giphy.gif" height="130" alt="Notes" style="border-radius: 10px; margin-right: 10px;" />
   
   <!-- Gameplay Where Winds Meet -->
   <!-- Ganti URL di dalam src="" dengan link screenshot lu sendiri biar lebih personal! -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlyb2R6a283ZG9vMjF3dHpwdm11NnA0OHFwZzlndmFudzJ6cnc5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFdxXxiZ6PsOOrRFbt/giphy.gif" height="130" alt="Where Winds Meet Gameplay" style="border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/YFdxXxiZ6PsOOrRFbt/giphy.gif" height="130" alt="Where Winds Meet Gameplay" style="border-radius: 10px;" />
 </p>
 
 ---
