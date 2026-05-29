@@ -78,12 +78,8 @@ Seorang IT Staff dan Junior Developer yang terbiasa menangani berbagai kebutuhan
 <p align="center">
   <!-- Animasi kucing main laptop -->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="130" alt="Cat Laptop" style="border-radius: 10px; margin-right: 10px;" />
-  
-  <!-- Animasi Kucing Nyatet -->
-  <img src="https://media.giphy.com/media/iXeKXVyZHZm4SqerEa/giphy.gif" height="130" alt="Cat Notes" style="border-radius: 10px; margin-right: 10px;" />
-  
-  <!-- Gameplay Where Winds Meet -->
-  <img src="https://media.giphy.com/media/YFdxXxiZ6PsOOrRFbt/giphy.gif" height="130" alt="Where Winds Meet Gameplay" style="border-radius: 10px;" />
+  <img src="scroll.gif" height="130" alt="Cat Notes" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="wwm.gif" height="130" alt="Where Winds Meet" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -95,7 +91,7 @@ Fokus koding sambil dengerin musik adalah jalan ninja saya saat mencari *bug* at
 
 <p align="center">
  <a href="https://music.youtube.com/watch?v=9Loy6QsyqQQ&si=bVKwWHqa41wAdEAx" target="_blank"> 
-     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJyMG5vbGRrdHk2Zmcyaml3dmY0YjFwd2xzdmtiZXg0bjV2aTVoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8FM8uY0KjydEohrjrh/giphy.gif" width="120" alt="Listen" />
+     <img src="jkmusic.gif" width="120" alt="Listen" />
   </a>
 </p>
 
