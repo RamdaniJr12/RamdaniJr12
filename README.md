@@ -53,13 +53,19 @@ Saya adalah seorang IT Staff dan Junior Developer dengan spesialisasi pada penge
 
 ---
 
-### 📊 Aktivitas GitHub
+### 📊 Aktivitas & Vibe Coding
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramdanijr12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdanijr12&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <!-- Animasi Vibe Coding yang lebih stabil -->
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="450" alt="Coding Animation" style="border-radius: 10px;" />
 </p>
 
+<p align="center">
+  <!-- GitHub Trophy sebagai ganti Stats Card (ringan dan bernuansa game) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ramdanijr12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 
 ### 🎵 Vibe & Inspirasi Coding
